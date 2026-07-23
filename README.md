@@ -1,4 +1,4 @@
-# Airbus Ship Detection Using Machine Learning and Deep Learning Approaches
+# SeaVision : Airbus Ship Detection Using Machine Learning and Deep Learning Approaches
 
 Detecting ships in satellite imagery is critical for maritime surveillance, environmental monitoring, and navigation safety. This project explores three approaches for binary ship detection using the Airbus Ship Detection dataset:
 
